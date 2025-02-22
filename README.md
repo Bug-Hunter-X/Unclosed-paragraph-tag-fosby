@@ -1,0 +1,1 @@
+This repository contains an example of an unclosed paragraph tag in HTML and its solution. The bug is a common error that can lead to unexpected layout issues in web pages. The solution demonstrates how to fix the issue by properly closing the paragraph tag.
